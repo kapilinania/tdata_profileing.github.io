@@ -1,5 +1,7 @@
 # tdata_profileing.github.io
 
+![image](https://github.com/kapilinania/tdata_profileing.github.io/assets/67285213/9f56ba8f-0a5d-4107-94c8-ff01660c895d)
+
 Data Profiling with ydata_profile or pandas profiling
 
 ## Table of Contents
